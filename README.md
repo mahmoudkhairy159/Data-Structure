@@ -1,2 +1,2 @@
-#Library Management System C++
-##Project Idea:
+# Library Management System C++
+## Project Idea:
